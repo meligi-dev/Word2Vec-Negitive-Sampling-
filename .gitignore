@@ -1,0 +1,14 @@
+# Jupyter & Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Model weights
+*.pt
+*.bin
+*.pth
+
+# Environment
+.env
+venv/
+.venv/
